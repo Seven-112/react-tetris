@@ -242,5 +242,5 @@ npm run build
 
 Will build the application in the build folder.
 
-## Further Research
+## Further Study
 
